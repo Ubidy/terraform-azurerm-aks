@@ -47,4 +47,7 @@ Gemfile.lock
 .terraform.tfstate.lock.info
 
 # SSH Key
-private_ssh_key
+
+# VAR file
+
+vars.json
